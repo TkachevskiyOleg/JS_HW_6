@@ -1,0 +1,23 @@
+.mess {
+    position: fixed;
+    padding: 5px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.button-container {
+    display: flex;
+    position: relative;
+}
+
+.button {
+    position: relative;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+    background-color: #333;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}

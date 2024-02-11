@@ -1,0 +1,25 @@
+body
+{
+    font-family: Arial, sans-serif;
+    background-color: blanchedalmond;
+}
+ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+li {
+    cursor: pointer;
+}
+
+.folder {
+    color: rgb(0, 0, 0);
+}
+
+.collapsed ul {
+    display: none;
+}
+.collapsed li:hover
+{
+    font-weight: bold;
+}

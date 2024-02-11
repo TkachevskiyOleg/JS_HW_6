@@ -1,0 +1,19 @@
+body
+{
+    background-color: rgb(220, 236, 183);
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.orange {
+    background-color: rgb(152, 214, 117);
+}
